@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Mallikarjuna18
-- 👀 I’m interested in Data analytics
-- 🌱 I’m currently learning Numpy and pandas in python
-- 💞️ I’m looking to collaborate on Data analyst prijects
+- 👀 I’m interested in DevOps
+- 🌱 I’m currently working in Zoho as DevOps Engineer
 - 📫 How to reach me mallikarjunakukatikonda183@gmail.com,9515318548
 
 <!---
